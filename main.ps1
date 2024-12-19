@@ -17,7 +17,7 @@ while ($true) {
     Write-Host "3) Activer Office"
     Write-Host "4) Changer de version Windows 10/11/Server"
     Write-Host "5) Changer de version Office"
-    Write-Host "6) Installer Office 2021 Professionnal Plus"
+    Write-Host "6) Installer Office"
     Write-Host "7) Installer Chrome"
     Write-Host "8) Cle bootable Windows 11"
     Write-Host "9) Optimiser Windows 11"
